@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mtesitoo-android.iml" filepath="$PROJECT_DIR$/mtesitoo-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="mtesitoo-android/app" />
+      <module fileurl="file://$PROJECT_DIR$/mtesitoo-android.iml" filepath="$PROJECT_DIR$/mtesitoo-android.iml" group="mtesitoo-android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libs/mtesitoo-backend-api/mtesitoo-android-mtesitoo-backend-api.iml" filepath="$PROJECT_DIR$/.idea/modules/libs/mtesitoo-backend-api/mtesitoo-android-mtesitoo-backend-api.iml" group="mtesitoo-android/mtesitoo-backend-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libs/wizardpager/mtesitoo-android-wizardpager.iml" filepath="$PROJECT_DIR$/.idea/modules/libs/wizardpager/mtesitoo-android-wizardpager.iml" group="mtesitoo-android/wizardpager" />
       <module fileurl="file://$PROJECT_DIR$/libs/mtesitoo-backend-api/mtesitoo-backend-api.iml" filepath="$PROJECT_DIR$/libs/mtesitoo-backend-api/mtesitoo-backend-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/libs/wizardpager/wizardpager.iml" filepath="$PROJECT_DIR$/libs/wizardpager/wizardpager.iml" />
     </modules>
